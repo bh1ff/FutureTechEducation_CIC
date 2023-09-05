@@ -1,0 +1,42 @@
+/* Base styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2f2f2; /* Light gray background for the whole page */
+}
+
+.container {
+    background-color: #ffffff; /* White background for the content containers */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* A subtle shadow to lift the content containers */
+}
+
+/* Header styles */
+header {
+    background-color: #89CFF0; /* Baby blue */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* Section styles */
+section {
+    margin-top: 20px;
+}
+
+/* Subsection styles */
+div.mt-4 {
+    background-color: #dbebff; /* Baby pink */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #FFDD94; /* Baby yellow */
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
