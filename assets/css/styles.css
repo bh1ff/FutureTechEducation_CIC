@@ -431,7 +431,9 @@ footer a:hover {
 .spacer100 {
     min-height: 100px;
 }
-
+.spacer50 {
+    min-height: 50px;
+}
 .KSCards {
     min-height: 300px;
     margin: 30px auto;
@@ -462,4 +464,45 @@ footer a:hover {
 }
 .proposalHeightFix {
     min-height: 400px;
+}
+
+/* Backgrounds  */
+/* KS2  */
+#KS2Day {
+    background-image: url("https://placehold.co/600x400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#KS2Club {
+    background-image: url("https://placehold.co/600x400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#KS2Stem {
+    background-image: url("https://placehold.co/600x400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* KS3  */
+#KS3Day {
+    background-image: url("https://placehold.co/600x400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#KS3Club {
+    background-image: url("https://placehold.co/600x400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#KS3Stem {
+    background-image: url("https://placehold.co/600x400");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
