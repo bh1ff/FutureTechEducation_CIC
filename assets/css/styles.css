@@ -511,8 +511,9 @@ footer a:hover {
     display:flex; 
     flex-direction: column; 
     align-items: center; 
-    font-size: 50px;
+    font-size: 35px;
     color:white;
+    font-weight: bold;
 }
 .mainSubtitle {
     font-family:'Lato', sans-serif ;   /* Font Family*/
@@ -521,6 +522,7 @@ footer a:hover {
     max-width: 1000px;
     margin: 0 auto;
     color: white;
+    
 }
 .blueBackground {
     background-color: var(--primary);
